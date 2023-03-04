@@ -7,12 +7,12 @@ The purpose of this study was to ananlyze the Beers and Breweries datasets and c
 Documentation:
 
 *Beers.csv - Intial provided dataset 
-       ⋅⋅*Name: Name of the beer
-       ⋅⋅*Beer_ID: Unique identitifier of the beer
-       ⋅⋅*ABV: Alcohol by volume of the beer
-       ⋅⋅*IBU: International Bitterness Units of the beer
-       ⋅⋅*Style: Style of the beer
-       ⋅⋅*Ounces: Ounces of beer
+       ⋅⋅⋅⋅⋅*Name: Name of the beer
+      ⋅⋅⋅ ⋅⋅*Beer_ID: Unique identitifier of the beer
+      ⋅⋅⋅ ⋅⋅*ABV: Alcohol by volume of the beer
+      ⋅⋅⋅ ⋅⋅*IBU: International Bitterness Units of the beer
+     ⋅⋅⋅  ⋅⋅*Style: Style of the beer
+     ⋅⋅⋅  ⋅⋅*Ounces: Ounces of beer
 *Breweries.csv - Initial provided dataset
       ⋅⋅*Brew_ID : Unique Identifier of the brewery 
       ⋅⋅*Name: Name of the brewery
